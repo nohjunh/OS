@@ -2,4 +2,4 @@
 
 Notion Link -> summarize the key concepts.
 
-https://www.notion.so/95da31a2770943b884d0e4ef88ec4e78
+https://loud-moss-b5a.notion.site/00b96816c3864c85b15231c04fd77693
